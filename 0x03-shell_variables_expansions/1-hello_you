@@ -1,2 +1,2 @@
 #!/bin/bash
-hello id -n
+printf "hello "; id -nu\n
